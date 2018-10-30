@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 });
 
-const prefix = '>';
+const prefix = ':';
 
 const flags = {
     "en" : ":flag_gb:",
@@ -115,4 +115,4 @@ function translateTo(language, content, user, message) {
     });
 }
 
-client.login('BOT TOKEN GOES HERE');
+client.login('NDk4NDYwMjczNDgxNjEzMzEz.DpySZA.OpNc7lGus3aCCCU6_GdqStfGbEg');
