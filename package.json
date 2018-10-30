@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "discord.js": "^11.3.2",
-    "google-translate-api": "^2.3.0"
+    "google-translate-api-mod": "^2.3.100"
   },
   "devDependencies": {},
   "scripts": {
