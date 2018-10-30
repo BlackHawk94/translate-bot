@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const translate = require('google-translate-api');
+const translate = require('google-translate-api-mod');
 
 client.on('ready', () => {
   console.log('I am ready!');
